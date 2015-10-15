@@ -3,7 +3,7 @@ BCI_BO
 
 To start please see: BO_BCI.py, This file is the starting point to do Bayesian Optimization.
 
-
+If you have any questions please contact: hosseinbs@ece.ubc.ca
 
 Dependencies
 _______________
