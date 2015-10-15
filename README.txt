@@ -1,13 +1,9 @@
-BCI Framework
-_______________
+BCI_BO
 
-BCI Framework is a package to compare different classification 
-and feature extraction algorithms in BCI:
 
-Please see the paper:
-"Comparing different classifiers in Sensory Motor Brain Computer Interfaces". Hossein Bashashati, Rabab K. Ward, Gary E. Birch, Ali Bashashati
+To start please see: BO_BCI.py, This file is the starting point to do Bayesian Optimization.
 
-The code is designed compare differnet algorithms, easy to extend and can replicate the exact results in the paper. 
+
 
 Dependencies
 _______________
@@ -27,7 +23,7 @@ _______________________
 
 To run the program, run the following command in git terminal:
 
-git clone git://github.com/hosseinbs/bci_framework.git
+git clone git://github.com/hosseinbs/BCI-BO-old.git
 
 Then run the following command: 
 
